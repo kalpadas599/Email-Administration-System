@@ -1,6 +1,7 @@
 # 📧 Email Application (Java)
 
 ## 🧩 Overview
+
 This project simulates a simple **Email Administration Application** for an IT Support Administrator.  
 It automates the process of creating and managing employee email accounts for a company.  
 
